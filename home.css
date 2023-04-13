@@ -31,6 +31,10 @@ div.profile-card .profile-text {
     display: none;
 }
 
-div.profile-card:hover .profile-text {
+/* div.profile-card:hover .profile-text {
     display: flex;
+} */
+
+.paralax-item-active {
+    display: flex !important;
 }
